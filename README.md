@@ -1,27 +1,27 @@
-# IocoAngular
+# Angular TEST
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+### <a href="https://mudaupfunzo.github.io/angular-ioco/angular-ioco/">LIVE DEMO</a>
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This is a Angular based Test
 
-## Code scaffolding
+### 1. Preps
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc.
 
-## Build
+### 2. Clone Files
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+After cloning the files, you will have to run `npm install` followed by `npm start` in the CLI
 
-## Running unit tests
+## Credits
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+##### BOOTSTRAP
 
-## Running end-to-end tests
+<a href="https://getbootstrap.com/docs/4.6">Bootstrap </a>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+##### MULTI-CAROUSEL
 
-## Further help
+<a href="https://github.com/YIZHUANG/react-multi-carousel">Multi-Carousel </a>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+##### Pfunzo Mudau

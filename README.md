@@ -1,6 +1,6 @@
 # Angular TEST
 
-### <a href="https://mudaupfunzo.github.io/angular-ioco/angular-ioco/">LIVE DEMO</a>
+### <a href="https://mudaupfunzo.github.io/angular-ioco/">LIVE DEMO</a>
 
 ## Description
 

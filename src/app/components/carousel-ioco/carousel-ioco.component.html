@@ -1,0 +1,28 @@
+<div class="container" style="margin: 60px">
+  <div class="row">
+    <carousel
+      [itemsPerSlide]="5"
+      [singleSlideOffset]="true"
+      [interval]="0"
+      [noWrap]="false"
+      [showIndicators]="false"
+      (slideRangeChange)="log($event)"
+    >
+      <slide *ngFor="let slide of saleItems; let index = index">
+        <div class="row gallery-container">
+          <div class="gallery-item">
+            <div
+              class="deal-card {{
+                index == ActiveSlide ? ' deal-card-active' : ''
+              }}"
+            >
+              <div class="card-body">
+                <p class="card-text">{{ slide.title }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </slide>
+    </carousel>
+  </div>
+</div>
